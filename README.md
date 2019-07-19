@@ -1,2 +1,10 @@
 # Supershop-Management-System
-A C# project based on super shop.
+
+
+Programming Language : C#
+
+IDE : Visual Studio
+
+Database: MySQL
+
+
